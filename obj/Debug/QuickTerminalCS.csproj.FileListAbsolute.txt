@@ -1,0 +1,6 @@
+C:\Users\marti\Documents\Programy\QuickTerminalCS\bin\Debug\QuickTerminalCS.exe
+C:\Users\marti\Documents\Programy\QuickTerminalCS\bin\Debug\QuickTerminalCS.pdb
+C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.exe
+C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.pdb
