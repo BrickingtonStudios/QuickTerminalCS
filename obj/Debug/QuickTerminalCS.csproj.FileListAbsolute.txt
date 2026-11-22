@@ -4,3 +4,4 @@ C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.cspr
 C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.csproj.CoreCompileInputs.cache
 C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.exe
 C:\Users\marti\Documents\Programy\QuickTerminalCS\obj\Debug\QuickTerminalCS.pdb
+C:\Users\marti\Documents\Programy\QuickTerminalCS\bin\Debug\resources\art.txt
